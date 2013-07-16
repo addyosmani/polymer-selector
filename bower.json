@@ -15,7 +15,7 @@
     "url": "git://github.com/addyosmani/polymer-selector.git"
   },
 "dependencies": {
-    "polymer": "~> 0.0.1",
-    "polymer-selection": "~> 0.0.1"
+    "polymer": "latest",
+    "polymer-selection": "latest"
   }
 }
