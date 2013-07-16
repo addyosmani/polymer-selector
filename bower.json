@@ -16,6 +16,6 @@
   },
 "dependencies": {
     "polymer": "~> 0.0.1",
-    "polymer-selection": "0.0.1"
+    "polymer-selection": "~> 0.0.1"
   }
 }
